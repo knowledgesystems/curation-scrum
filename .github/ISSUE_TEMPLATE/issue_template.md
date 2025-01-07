@@ -1,6 +1,6 @@
 ---
 name: Issue Template
-about: Use this template to describe tasks, report bugs, or suggest improvements.
+about: Describe tasks, report bugs, or suggest fixes.
 ---
 
 ### Task Overview  
