@@ -1,5 +1,0 @@
-blank_issues_enabled: false
-contact_links:
-  - name: Issue Template
-    url: https://github.com/knowledgesystems/curation-scrum/issues/new?template=issue_template.md
-    about: Template to describe tasks, report bugs, or suggest fixes.
