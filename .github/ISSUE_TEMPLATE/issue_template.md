@@ -1,3 +1,8 @@
+---
+name: Issue Template
+about: Use this template to describe tasks, report bugs, or suggest improvements.
+---
+
 ### Task Overview  
 _What is the task about?_  
 
