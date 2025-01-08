@@ -1,5 +1,5 @@
 ---
-name: Issue Template
+name: Default Template
 about: Describe tasks, report bugs, or suggest fixes.
 ---
 
